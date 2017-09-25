@@ -33,7 +33,7 @@ control
         </ScrollView>
     </Page>
 
-##Angular implementation
+## Angular implementation
     
     - Within Component:
     
